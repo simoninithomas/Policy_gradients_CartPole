@@ -19,8 +19,9 @@ CartPole-v0 defines "solving" as <b>getting average reward of 195.0 over 100 con
 
 ### Usage
 <p> To be more readable and more easier to explain I use Jupyter Notebook  </p> 
-<p> Open your terminal, go to the Policy_gradients_CartPole folder and launch notebook '''jupyter notebook''' </b> </p>
+<p> Open your terminal, go to the Policy_gradients_CartPole folder and launch notebook  </p>
 
+```jupyter notebook```
 
 ## Walkthrough
 ### The CartPole
