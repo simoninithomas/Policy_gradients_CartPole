@@ -42,7 +42,7 @@ An agent can push the cart:
 
 
 ### The NN
-<img src="assets/nn.png" />
+<img src="assets/NN.png"/>
 <i>Originally taken from, <a href="https://www.youtube.com/watch?v=pN7ETkOizGM">Siraj's Solving the basic game of Pong video </a> modified with my exceptional skills in paint </i>😂
 
 ### The advantage function
