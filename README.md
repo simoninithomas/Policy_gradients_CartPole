@@ -23,7 +23,6 @@ CartPole-v0 defines "solving" as <b>getting average reward of 195.0 over 100 con
 
 ## Walkthrough
 ### The CartPole
-<h3> Cart Pole V0 </h3>
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*G_whtIrY9fGlw3It6HFfhA.gif" alt="Cart Pole game" />
 
