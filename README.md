@@ -1,6 +1,6 @@
 # Policy_gradients_CartPole
 Policy Gradient Learning with CartPole-v0
-
+<img src="https://cdn-images-1.medium.com/max/1200/1*G_whtIrY9fGlw3It6HFfhA.gif" alt="Cart Pole game" />
 ## Getting started
 The challenge of the week was: <b>solving a simple game using policy gradients (other than pong).</b>
 I've chosen CartPole v1.0 because that's a basic game and there is a ton of documentations/tutorials about that kind of game. 
