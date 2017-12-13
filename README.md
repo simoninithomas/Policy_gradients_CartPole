@@ -19,7 +19,7 @@ CartPole-v0 defines "solving" as <b>getting average reward of 195.0 over 100 con
 
 ### Usage
 <p> To be more readable and more easier to explain I use Jupyter Notebook  </p> 
-<p> Because the network is trained and the weights are included in the code, you <b>can just run the last cell after "Play the game" to see the agent play</b> </p>
+<p> Open your terminal, go to the Policy_gradients_CartPole folder and launch notebook '''jupyter notebook''' </b> </p>
 
 
 ## Walkthrough
